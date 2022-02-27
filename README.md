@@ -3,7 +3,7 @@
 Monitoramento tentativa de Login com credenciais inválidas em Servidores Windows efetuando Logins Intereativo e RDP.
 Tested on Zabbix 4.0.x / 5.0.0 / 5.4.0 | Windows Server 2008 / 2012 / 2016 / 2019 | Windows 10 Pro
 
-## ITEM ###
+## Item de Monirotamento ###
 Esse monitoramento consulta o Event Viewer, na Categoria Log do Windows, sub-categoria Security, e coleta dados com a expressão Failure Audit do tipo 4625 (An account failed to log on).
 
 Key: eventlog[Security,,"Failure Audit",,^4625$,,skip]
