@@ -1,6 +1,6 @@
 # ZABBIX-Audit-LoginPassword-Windows
 
-Monitoramento tentativa de Login com credenciais inválidas em Servidores Windows efetuando Logins Intereativo e RDP.
+Monitoramento tentativa de Login com credenciais inválidas em Servidores Windows efetuando Logins Interativo e RDP.
 Tested on Zabbix 4.0.x / 5.0.0 / 5.4.0 | Windows Server 2008 / 2012 / 2016 / 2019 | Windows 10 Pro
 
 ## Item de Monirotamento ###
