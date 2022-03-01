@@ -19,4 +19,4 @@ Nome: Tentativa de Login inválidas (Login:{{ITEM.VALUE}.regsub("Account Name:\s
 
 ![image](https://user-images.githubusercontent.com/88397673/155886411-ab505b26-0e2e-4165-bd12-74919f4cdc73.png)
 
-Importe o Template, vincule-o ao template e inicie o Monitoramento!
+Importe o Template, vincule-o ao Host e inicie o Monitoramento!
